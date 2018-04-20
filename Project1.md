@@ -1,6 +1,6 @@
 ## Title: Cloud Application and Development Project Proposal
-# Author: Thomas Margand
-# Date: 26 February 2018
+### Author: Thomas Margand
+### Date: 26 February 2018
 
 The purpose of this document is to outline and evaluate potential project ideas for the course project to be completed
 during the Microsoft Software Systems Academy Cohort Four. This paper will discuss three different ideas for
